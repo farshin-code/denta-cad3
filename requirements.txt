@@ -1,0 +1,7 @@
+tensorflow
+pillow
+huggingface_hub
+opencv-python
+numpy
+gunicorn
+Flask
